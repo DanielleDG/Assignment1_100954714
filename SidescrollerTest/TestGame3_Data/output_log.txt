@@ -1,0 +1,123 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dani DG\Documents\School\Game Dev\Labs\SidescrollerTest\TestGame3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.655407 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.861530 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 212.
+Total: 0.277333 ms (FindLiveObjects: 0.016592 ms CreateObjectMapping: 0.011851 ms MarkObjects: 0.188444 ms  DeleteObjects: 0.060049 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.349135 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.196740 ms (FindLiveObjects: 0.016592 ms CreateObjectMapping: 0.011851 ms MarkObjects: 0.160000 ms  DeleteObjects: 0.007506 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.467753 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.222814 ms (FindLiveObjects: 0.015802 ms CreateObjectMapping: 0.025283 ms MarkObjects: 0.139061 ms  DeleteObjects: 0.041086 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HUDController.Restart () [0x00000] in <filename unknown>:0 
+  at HUDController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Collision with prize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with prize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with prize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with prize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with prize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with prize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision with fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.724938 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 160.
+Total: 6.658370 ms (FindLiveObjects: 0.021728 ms CreateObjectMapping: 0.015407 ms MarkObjects: 0.185283 ms  DeleteObjects: 6.435160 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2230 -> priority: 1 
